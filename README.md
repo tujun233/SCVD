@@ -1,2 +1,3 @@
 # Fine-Granularity Alignment for Text-Based Person Retrieval via Semantics-Centric Visual Division
+![framework](./models/framework.png)
 The code of model and training is coming soon...
